@@ -1,4 +1,17 @@
+
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
 # Python Multi-Service API Client
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![REST API](https://img.shields.io/badge/REST-API-success)
+![JSON](https://img.shields.io/badge/JSON-Data-orange)
+![Automation](https://img.shields.io/badge/Automation-Python-blueviolet)
+![GitHub](https://img.shields.io/badge/Open%20Source-GitHub-black?logo=github)
+
+A Python automation project demonstrating API integration, JSON processing, structured data storage, and robust error handling using multiple public APIs.
 
 A beginner-friendly Python automation project that demonstrates how to communicate with multiple external APIs, process JSON responses, store structured data, and implement basic error handling.
 
