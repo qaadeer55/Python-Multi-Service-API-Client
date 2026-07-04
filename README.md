@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banne.png" alt="Banner" width="100%">
+  <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
 # Python Multi-Service API Client
